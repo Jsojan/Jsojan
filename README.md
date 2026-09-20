@@ -5,10 +5,7 @@
 ![](https://streak-stats.demolab.com/?user=Jsojan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jsojan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jsojan&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Jsojan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Jsojan&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
