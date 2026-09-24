@@ -121,7 +121,3 @@ Building on distributed systems at AWS and deepening my AI research chops at Pen
 </table>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jsojan&icon=0&color=1" alt="Profile views" />
-</p>
