@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Sojan</h1>
-<h3 align="center">Software Development Engineer @ AWS · M.S. in En AI @ University of Pennsylvania</h3>
+<h3 align="center">Software Development Engineer @ AWS · M.S. in Engineering,  Artificial Intelligence @ University of Pennsylvania</h3>
 
 <p align="center">
 Building on distributed systems at AWS and deepening my AI research chops at Penn. Always happy to connect — reach out below 👇
